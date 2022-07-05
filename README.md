@@ -1,2 +1,2 @@
-# composition-react-component-with-map
+# composition-react-component
 Created with CodeSandbox
